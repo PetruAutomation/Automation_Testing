@@ -66,7 +66,7 @@ public class Homework2 {
         /* Problem NR.5
      a) There is a string "I love Java":
      b) Print the letter at index 4.
-     c) Print the index of the letter 'J'. )
+     c) Print the index of the letter 'J'.
      d) Add "and QA Automation" to this phrase (resulting in "I love Java and QA Automation").
      e) Check via boolean if the phrase "I love Java" is of type String. */
 
