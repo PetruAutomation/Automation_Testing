@@ -123,6 +123,8 @@ public class Homework3 {
         for (int q = 7; q < 99; q = q + 7) {
             System.out.println(q);
         }
+
+
     }
 }
 
